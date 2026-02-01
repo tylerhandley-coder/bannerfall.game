@@ -1,0 +1,29 @@
+Title,Type,Rarity,Description,Quantity
+Phantasmic Shield,Buff,Common,Target unit takes 2 less damage next turn.,5
+Axehound,Buff,Common,Target Brute deals +1 Damage on its next attack.,4
+Poison Arrow,Buff,Common,Target Archer deals +1 Damage on its next attack.,4
+Shadow's Edge,Buff,Common,Target Assassin deals +1 Damage on its next attack.,4
+King of the Hill,Buff,Rare,Archer on a Plateau deals +2 Damage on its next attack.,2
+Farsight,Buff,Rare,Archer gains +1 Range for this turn.,2
+Swift Foot,Buff,Rare,Target unit gains +1 Movement for this turn.,3
+Spectral Shift,Buff,Rare,Selected mage can move up to 5 hexes next turn,2
+In & Out Murder,Buff,Rare,If target Assassin attack results in a kill this turn, they gain +1 Movement for this turn.,2
+Transfusion,Buff,Common,Heal target unit plus 2 HP,8
+Martyr Protocol,Buff,Super Rare,All units within 2 hexes of your Banner gain +2 Atk next turn. Casting Mage loses 1HP,1
+Shroud of Turino,Buff,Super Rare,Assassin is invisible to enemies for one turn (cannot be attacked or nerfed),1
+Raging Pulse,Buff,Super Rare,Brute receives +3 damage on next attack,1
+Toe Rot,Nerf,Common,Target enemy cannot perform a Move action on their next turn.,4
+Blinding Dust,Nerf,Common,Target enemy's Range is reduced by 1 for their next turn.,4
+Brittle blade,Nerf,Common,Target Brute deals -2 Damage on its next attack.,4
+Overwound Strings,Nerf,Common,Target Archer deals -1 Damage on its next attack.,7
+Toe Rot,Nerf,Common,Target enemy cannot perform a Move action on their next turn.,4
+Coward's Mark,Nerf,Rare,Target opponent unit cannot make an attack on their next turn.,2
+Grave Debt,Nerf,Rare,"When target unit dies, the nearest enemy Mage loses 2 HP.",2
+Weight of Command,Nerf,Super Rare,Enemy Warlord loses 1 Atk for every ally currently adjacent to him.,1
+Traitor's Toll,Nerf,Super Rare,Force an enemy unit to deal 2 Damage to their own adjacent Warlord.,1
+Claws of crabs,Nerf,Super rare,"If targeted enemy unit has two of your units adjacent to it, +1 attack for each adjacent friendly unit",4
+Shatter Terra,Nerf,Super Rare,Selected mage can destroy an enemy plateau and kill any player on it,1
+Spinal Ripcord,Buff,Super rare,Warlord deals +2 Damage. Attack ignores all enemy Shields or Damage-reduction buffs.,1
+Soul Siphon,Buff,Super rare,"Warlord deals +2 Damage. If the target dies, your Warlord heals 1 HP.",1
+Rampage,Buff,Super rare,Warlord gains one extra attack action this turn (must be used in same turn),1
+Super Smash,Buff,Super rare,Warlord does +1 damage to all enemy units within two tiles of the attacked unit,1
